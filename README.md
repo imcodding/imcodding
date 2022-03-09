@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
 
 ### Tools
-- ![Android Studio](https://img.shields.io/badge/Android%20Studio-1572B6.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-1572B6.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
