@@ -48,5 +48,4 @@ Here are some ideas to get you started:
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-1572B6.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white)
 #
-[![github stats](https://github-readme-stats.vercel.app/api?username=imcodding&show_icons=true&hide_border=true)](https://github.com/imcodding)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imcodding&layout=compact)](https://github.com/imcodding)
+[![github stats](https://github-readme-stats.vercel.app/api?username=imcodding&show_icons=true&hide_border=true)](https://github.com/imcodding)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imcodding&layout=compact)](https://github.com/imcodding)
