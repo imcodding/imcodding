@@ -45,7 +45,6 @@ Here are some ideas to get you started:
 ![IntelliJ IDEA](https://img.shields.io/badge/intellij%20idea-000000.svg?&style=flat-square&logo=intellij%20idea&logoColor=white)
 ![SVN](https://img.shields.io/badge/Subversion-809CC9.svg?&style=flat-squaree&logo=Subversion&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-1572B6.svg?&style=flat-square&logo=Android%20Studio&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat-square&logo=Firebase&logoColor=white)
 #
 [![github stats](https://github-readme-stats.vercel.app/api?username=imcodding&show_icons=true&hide_border=false)](https://github.com/imcodding)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imcodding&layout=compact&hide_border=true)](https://github.com/imcodding)
