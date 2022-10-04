@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-76BE41.svg?&style=flat-square&logo=Spring%20Boot&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FFD617.svg?&style=flat-square&logo=Linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=flat-square&logo=Android&logoColor=white)
 
 ### Tools
